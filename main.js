@@ -84,7 +84,6 @@ const mostrarProductos = () => {
             agregarCarrito(producto.id);
             mostrarCarrito();
         })
-        
     })
 }
 
